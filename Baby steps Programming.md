@@ -6,18 +6,18 @@ Este repo corresponde al reto #2 que nos dejó el profe en nuestro segundo encue
 ![Imagen1](https://user-images.githubusercontent.com/124615334/218834001-b4efc8cc-e8c6-407e-9060-b441b0196adf.png)
 
 Luego en la ubicación del archivo dar click derecho y seleccionar correr en el terminal.
-![Imagen2.png](https://drive.google.com/file/d/11FE9rsI5K8GJQ436dxMT5CF2S5HZ22nv/view?usp=share_link)
+![Imagen2](https://user-images.githubusercontent.com/124615334/218834169-4dc70aa1-4cea-4d45-b712-1f0cfaba9241.png)
 
 Una vez abierto el terminal escribiremos python + el nombre de nuestro archivo y presionamos enter para que corra.
-![Imagen3.png](https://drive.google.com/file/d/1Vk1POXDMsnlKLY40O148rHApfTioqp2C/view?usp=share_link)
+![Imagen3](https://user-images.githubusercontent.com/124615334/218834348-13de6a72-da52-4f01-bae1-ce9c4218b0f6.png)
 
 2. Hola mundo en el intérprete de Python:
 Para esta parte del reto se copió el código directamente en el IDLE de Python, que se instala automáticamente junto con Python, luego se puso a correr el código y este fue el resultado:
-
-![Imagen4.png](https://drive.google.com/file/d/1ZSqjfVSgHZx3SOu-t_4iOYJZXq9StIGh/view?usp=share_link)
+![Imagen4](https://user-images.githubusercontent.com/124615334/218834470-39dc387d-066b-4bdb-b1a0-be140c389491.png)
 
 3. Hola mundo en Visual Studio Code:
 Este paso resultó ser el más sencillo ya que se copió el código y se puso a correr al presionar el botón Run. El resultado debe verse así:
-![Imagen5.png](https://drive.google.com/file/d/1Vk1POXDMsnlKLY40O148rHApfTioqp2C/view?usp=share_link)
+![Imagen5](https://user-images.githubusercontent.com/124615334/218834512-e652d7cc-23e6-401e-8525-3848cc0a2ea4.png)
+
 
 _Y así terminamos de cumplir todos los pasos del reto. Gracias por llegar al final!_
