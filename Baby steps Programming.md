@@ -1,6 +1,6 @@
 # **Baby steps Programming** #
 
-Este repo corresponde al reto #2 que nos dejó el profe en nuestro segundo encuentro [GitHub](hhttps://github.com/fegonzalez7/pdc_unal_clase2 "GitHub"), con el cual básicamente nos vamos a cerciorar de que las herramientas que estaremos utilizando en el curso funcionen correctamente en nuestro pc. 😊
+Este repo corresponde al reto #2 que nos dejó el profe en nuestro segundo encuentro [repo](https://github.com/fegonzalez7/pdc_unal_clase2), con el cual básicamente nos vamos a cerciorar de que las herramientas que estaremos utilizando en el curso funcionen correctamente en nuestro pc. 😊
 
 1. Para la primera parte del reto se copió el código en el block de notas y se guardó como un archivo cuyo nombre finaliza en la extensión de Python .py
 ![Imagen1](https://user-images.githubusercontent.com/124615334/218834001-b4efc8cc-e8c6-407e-9060-b441b0196adf.png)
@@ -17,7 +17,7 @@ Para esta parte del reto se copió el código directamente en el IDLE de Python,
 
 3. Hola mundo en Visual Studio Code:
 Este paso resultó ser el más sencillo ya que se copió el código y se puso a correr al presionar el botón Run. El resultado debe verse así:
-![Imagen5](https://user-images.githubusercontent.com/124615334/218834512-e652d7cc-23e6-401e-8525-3848cc0a2ea4.png)
+![Imagen5](https://user-images.githubusercontent.com/124615334/218835562-ae2ef137-9ffe-4b0a-b73e-01a7728735fb.png)
 
 
 _Y así terminamos de cumplir todos los pasos del reto. Gracias por llegar al final!_
